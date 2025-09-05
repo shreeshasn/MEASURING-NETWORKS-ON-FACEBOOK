@@ -3,3 +3,7 @@ This Repository contains the Python code that utilized networkx, numpy and matpl
 
 Requirements:
   networkx, numpy, matplotlib, scipy to be locally installed to run it
+
+  terminal code:
+  pip install networkx matplotlib scipy numpy
+  
